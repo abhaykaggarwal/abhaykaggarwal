@@ -33,6 +33,17 @@ One of the highlights of my time in college has been [The Berkeley Forum](https:
 - [Kate Wagner](https://www.facebook.com/berkeleyforum/videos/390362598390099), Creator of McMansion Hell
 - [Karen Diver](https://www.facebook.com/berkeleyforum/videos/381620866076629), Former Special Assistant to President Obama on Native American Affairs
 
+## Classes and Tools
+I have had the opportunity to take some really interesting (and challenging classes), including some of my personal favorites:
+- [CS61B](https://inst.eecs.berkeley.edu/~cs61b/fa19/), Data Structures
+- CYPLAN 190, Sustainable Public Transportation
+- CYPLAN 118AC, Urban Communities
+- [CS188](https://inst.eecs.berkeley.edu/~cs188/fa20/), Artificial Intelligence
+- [CS61C](https://cs61c.org/fa20/), Computer Architecture
+
+Some tools and languages I am most comfortable include:
+- Languages: Python, Java, C, SQL, RISC-V
+- Tools: Tableau, Google BigQuery, Jupyter Notebook
 
 <!--
 **abhaykaggarwal/abhaykaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
