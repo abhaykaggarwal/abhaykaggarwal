@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="images/GithubCoverPhoto.png">
+
 <!--
 **abhaykaggarwal/abhaykaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
