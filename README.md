@@ -16,9 +16,9 @@ I had the opportunity to work with a joint team (UN Office for the Coordination 
 I would be amiss not to credit the many people I learned from and worked with on this research project (my first as a college student), including my fellow student researchers at UC Berkeley, **Elisa Chen, Ruochen Liu, Anish Vankalyapati**, the professionals at Microsoft, **Vinitra Swamy and Vani Mandava**, and **Simon Johnson** at UN OCHA. 
 
 ### [Urban Displacement Project](https://www.urbandisplacement.org/)
-This was a project under Professor Karen Chapple in the College of Environmental Design (CED), and was an offshoot of the Urban Displacement Project. The research objective was to develop a machine learning model to predict gentrification pressure by census tract in 4 cities (Atlanta, Chicago, Denver, Memphis) for use by metropolitan planning agencies. 
+This was a project under **Professor Karen Chapple** in the College of Environmental Design (CED), and was an offshoot of the Urban Displacement Project. The research objective was to develop a machine learning model to predict gentrification pressure by census tract in 4 cities (Atlanta, Chicago, Denver, Memphis) for use by metropolitan planning agencies. We generally based this model off of ACS and Census attributes. It is important to acknowledge that we were not able to meet all of our goals, with the end result being an imperfect model (80% accuracy with isolated test cases). However, such experiences are always useful to learn from, and the mistakes I made are ones I continue to grow from.
 
-We presented a [final poster](https://docs.google.com/presentation/d/10NM98DpzLcqUNOqGOeswrT13YiWSuY88ThW1OLJqEJg/edit#slide=id.g25659b536c_2_6) at the end of the semester. Credits go to my fellow student researchers, Brian Le, Jacob Han, Kayli Jiang, Timothy Fong, as well as Ethan Burrell, who provided guidance throughout the project.
+We presented a [final poster](https://docs.google.com/presentation/d/10NM98DpzLcqUNOqGOeswrT13YiWSuY88ThW1OLJqEJg/edit#slide=id.g25659b536c_2_6) at the end of the semester. Credits go to my fellow student researchers, **Brian Le, Jacob Han, Kayli Jiang, Timothy Fong**, as well as **Ethan Burrell**, who provided guidance throughout the project.
 
 ### [East Bay Community Energy](https://ebce.org/)
 
