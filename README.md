@@ -42,8 +42,8 @@ I have had the opportunity to take some really interesting (and challenging clas
 - [CS61C](https://cs61c.org/fa20/), Computer Architecture
 
 Some tools and languages I am most comfortable include:
-- Languages: Python, Java, C, SQL, RISC-V
-- Tools: Tableau, Google BigQuery, Jupyter Notebook
+- **Languages:** Python, Java, C, SQL, RISC-V
+- **Tools:** Tableau, Google BigQuery, Jupyter Notebook
 
 <!--
 **abhaykaggarwal/abhaykaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
