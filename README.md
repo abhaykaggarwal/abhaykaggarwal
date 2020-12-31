@@ -10,11 +10,14 @@ My pronouns are he/him!
 
 Through UC Berkeley's Division of Computing, Data Science, and Society I have had the opportunity to research under multiple organizations and leads, working on projects from dataset analysis automation to predicting gentrification.
 
-### United Nations Humanitarian Data Exchange
+### [United Nations Humanitarian Data Exchange](https://data.humdata.org/) 
+I had the opportunity to work with a joint team (UN Office for the Coordination of Humanitarian Affairs and Microsoft) on a [model](https://github.com/humanitarian-data-collaboration/hdx-python-model) that would predict [Humanitarian Exchange Language](https://hxlstandard.org/) (HXL) tags for datasets that were uploaded to the UN HDX. As a part of this I contributed to a [research paper](https://www.kdd.org/kdd2019/docs/Humanitarian_Data_tagging_KDD2019_SocialImpactTrack_HXLTagPrediction.pdf) detailing the methodology used for tag prediction and the efficacy of the project, whose findings were presented at [KDD 2019](https://www.kdd.org/kdd2019/).
 
-### Urban Displacement Project
+I would be amiss not to credit the many people I learned from and worked with on this research project (my first as a college student), including my fellow student researchers at UC Berkeley, Elisa Chen, Ruochen Liu, Anish Vankalyapati, the professionals at Microsoft, Vinitra Swamy and Vani Mandava, and Simon Johnson at UN OCHA. 
 
-### East Bay Community Energy
+### [Urban Displacement Project](https://www.urbandisplacement.org/)
+
+### [East Bay Community Energy](https://ebce.org/)
 
 ## Organizations
 
