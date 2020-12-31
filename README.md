@@ -1,7 +1,7 @@
 
 <img src="images/GithubCoverPhoto.png">
 
-Hi there 👋 my name is Abhay. I am currently a junior at UC Berkeley studying Computer Science and City Planning. I am deeply passionate about public transportation (self-identifying NUMTOT 🏙), using and improving data 📊, and maps 🗺 (amongst many other interests). I got the idea to make a README profile from [Monica Powell] (https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) and decided to give it a try!
+Hi there 👋 my name is Abhay. I am currently a junior at UC Berkeley studying Computer Science and City Planning. I am deeply passionate about public transportation (self-identifying NUMTOT 🏙), using and improving data 📊, and maps 🗺 (amongst many other interests). I got the idea to make a README profile from [Monica Powell](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) and decided to give it a try!
 
 
 
