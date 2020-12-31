@@ -10,17 +10,20 @@ My pronouns are he/him!
 
 Through **UC Berkeley's Division of Computing, Data Science, and Society** I have had the opportunity to research under multiple organizations and leads, working on projects from dataset analysis automation to predicting gentrification.
 
-### [United Nations Humanitarian Data Exchange](https://data.humdata.org/) 
+### [United Nations Humanitarian Data Exchange](https://data.humdata.org/) - Spring 2019
 I had the opportunity to work with a joint team (UN Office for the Coordination of Humanitarian Affairs and Microsoft) on a [model](https://github.com/humanitarian-data-collaboration/hdx-python-model) that would predict [Humanitarian Exchange Language](https://hxlstandard.org/) (HXL) tags for datasets that were uploaded to the UN HDX. As a part of this I contributed to a [research paper](https://www.kdd.org/kdd2019/docs/Humanitarian_Data_tagging_KDD2019_SocialImpactTrack_HXLTagPrediction.pdf) detailing the methodology used for tag prediction and the efficacy of the project, whose findings were presented at [KDD 2019](https://www.kdd.org/kdd2019/).
 
 I would be amiss not to credit the many people I learned from and worked with on this research project (my first as a college student), including my fellow student researchers at UC Berkeley, **Elisa Chen, Ruochen Liu, Anish Vankalyapati**, the professionals at Microsoft, **Vinitra Swamy and Vani Mandava**, and **Simon Johnson** at UN OCHA. 
 
-### [Urban Displacement Project](https://www.urbandisplacement.org/)
+### [Urban Displacement Project](https://www.urbandisplacement.org/) - Fall 2019
 This was a project under **Professor Karen Chapple** in the College of Environmental Design (CED), and was an offshoot of the Urban Displacement Project. The research objective was to develop a machine learning model to predict gentrification pressure (using ACS and Census data) by census tract in 4 cities (Atlanta, Chicago, Denver, Memphis) for use by metropolitan planning agencies.It is important to acknowledge that we were not able to meet all of our goals, with the end result being an imperfect model (80% accuracy with isolated test cases). However, such experiences are always useful to learn from, and the mistakes I made are ones I continue to grow from.
 
 We presented a [final poster](https://docs.google.com/presentation/d/10NM98DpzLcqUNOqGOeswrT13YiWSuY88ThW1OLJqEJg/edit#slide=id.g25659b536c_2_6) at the end of the semester. Credits go to my fellow student researchers, **Brian Le, Jacob Han, Kayli Jiang, Timothy Fong**, as well as **Ethan Burrell**, who provided guidance throughout the project.
 
-### [East Bay Community Energy](https://ebce.org/)
+### [East Bay Community Energy](https://ebce.org/) - Fall 2020
+East Bay Community Energy (EBCE) is the community-governed, local power supplier for Alameda County. This project was centered on exploring three core areas: comparing the Supply and Demand Methods of carbon emissions accounting for EBCE's service area, visualizing relationships between external factors (such as temperature) with EBCE's carbon emissions, and building an optimization model for charging and discharging future battery-deployments. This required interacting with the [CAISO](http://www.caiso.com/Pages/default.aspx) interface, as well as building out hypothetical battery-deployment scenarios (namely adjusting paramters such as carbon price and operational costs). 
+
+We presented the findings in a [blogpost](https://github.com/abhaykaggarwal/blogpost) as well as a [slides](https://docs.google.com/presentation/d/1lkici9MwaAN0F7h1o_5fEBMWkgntbqa_lomttmGVMf0/edit?usp=sharing) presentation. My fellow student researchers were **Pavan Gowda and Brandon Zhong**, and the EBCE Lead was **Kevin Li**. 
 
 ## Organizations
 
