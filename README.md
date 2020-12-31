@@ -8,6 +8,13 @@ My pronouns are he/him!
 
 ## Research
 
+Through UC Berkeley's Division of Computing, Data Science, and Society I have had the opportunity to research under multiple organizations and leads, working on projects from dataset analysis automation to predicting gentrification.
+
+### United Nations Humanitarian Data Exchange
+
+### Urban Displacement Project
+
+### East Bay Community Energy
 
 ## Organizations
 
