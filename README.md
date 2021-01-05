@@ -24,10 +24,14 @@ This was a project under **Professor Karen Chapple** in the College of Environme
 
 We presented a [final poster](https://docs.google.com/presentation/d/10NM98DpzLcqUNOqGOeswrT13YiWSuY88ThW1OLJqEJg/edit#slide=id.g25659b536c_2_6) at the end of the semester. Credits go to my fellow student researchers, **Brian Le, Jacob Han, Kayli Jiang, Timothy Fong**, as well as **Ethan Burrell**, who provided guidance throughout the project.
 
+[[Poster](https://docs.google.com/presentation/d/10NM98DpzLcqUNOqGOeswrT13YiWSuY88ThW1OLJqEJg/edit#slide=id.g25659b536c_2_6)]
+
 ### [East Bay Community Energy](https://ebce.org/) - Fall 2020
 East Bay Community Energy (EBCE) is the community-governed, local power supplier for Alameda County. This [project](https://ds-discovery.github.io/Projects/Environment/Evaluating%20Alameda%20County%20CO2%20Emissions%20and%20Optimizing%20Customer%20Programs%20Using%20Marginal%20Emissions%20Data%20/) was centered on exploring three core areas: comparing the Supply and Demand Methods of carbon emissions accounting for EBCE's service area, visualizing relationships between external factors (such as temperature) with EBCE's carbon emissions, and building an optimization model for charging and discharging future battery-deployments. This required interacting with the [CAISO](http://www.caiso.com/Pages/default.aspx) interface, as well as building out hypothetical battery-deployment scenarios (namely adjusting paramters such as carbon price and operational costs). 
 
 We presented the findings in a [blogpost](https://github.com/abhaykaggarwal/blogpost) as well as a [slides](https://docs.google.com/presentation/d/1lkici9MwaAN0F7h1o_5fEBMWkgntbqa_lomttmGVMf0/edit?usp=sharing) presentation. My fellow student researchers were **Pavan Gowda and Brandon Zhong**, and the EBCE Lead was **Kevin Li**. 
+
+[[Project Description](https://ds-discovery.github.io/Projects/Environment/Evaluating%20Alameda%20County%20CO2%20Emissions%20and%20Optimizing%20Customer%20Programs%20Using%20Marginal%20Emissions%20Data%20/)][[Slides](https://docs.google.com/presentation/d/1lkici9MwaAN0F7h1o_5fEBMWkgntbqa_lomttmGVMf0/edit?usp=sharing)][[Blogpost](https://github.com/abhaykaggarwal/blogpost)]
 
 ## Organizations
 
