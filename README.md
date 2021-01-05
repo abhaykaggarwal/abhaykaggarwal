@@ -6,7 +6,7 @@ Hi there 👋 my name is Abhay. I am currently a junior at UC Berkeley studying 
 
 Alongside my work in college, I have had the opportunity to intern in the past at [Accenture Labs](https://www.accenture.com/us-en/about/accenture-labs-index) (with the Future Technologies team), and at [Appdynamics](https://www.appdynamics.com/) (a SaaS-based Cisco company)!
 
-If you have any questions about any of my projects or want to reach out, my email is [abhaykaggarwal @ berkeley.edu]. My pronouns are he/him!
+If you have any questions about any of my projects or want to reach out, my email is [abhaykaggarwal] @ [berkeley.edu]. My pronouns are he/him!
 
 ## Research
 
