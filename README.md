@@ -43,11 +43,12 @@ One of the highlights of my time in college has been [The Berkeley Forum](https:
 
 ## Classes and Tools
 I have had the opportunity to take some really interesting (and challenging classes), including some of my personal favorites:
-- [CS61B](https://github.com/abhaykaggarwal/cs61b-private), Data Structures
+- [CS61A](https://inst.eecs.berkeley.edu/~cs61a/sp19/), Computer Programs [[Repo](https://github.com/abhaykaggarwal/cs61b-private)]
+- [CS61B](https://inst.eecs.berkeley.edu/~cs61b/fa19/), Data Structures [[Repo](https://github.com/abhaykaggarwal/cs61b-private)]
 - CYPLAN 190, Sustainable Public Transportation
 - CYPLAN 118AC, Urban Communities
-- [CS188](https://github.com/abhaykaggarwal/cs188-private), Artificial Intelligence
-- [CS61C](https://github.com/abhaykaggarwal/cs61c-private), Computer Architecture
+- [CS61C](https://cs61c.org/fa20/), Computer Architecture [[Repo](https://github.com/abhaykaggarwal/cs61c-private)]
+- [CS188](https://inst.eecs.berkeley.edu/~cs188/fa20/), Artificial Intelligence [[Repo](https://github.com/abhaykaggarwal/cs188-private)]
 
 [Work done for classes are private to protect academic honesty]
 
