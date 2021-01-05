@@ -43,6 +43,8 @@ I have had the opportunity to take some really interesting (and challenging clas
 - [CS188](https://inst.eecs.berkeley.edu/~cs188/fa20/), Artificial Intelligence
 - [CS61C](https://cs61c.org/fa20/), Computer Architecture
 
+[Work done for classes are private to protect academic honesty]
+
 Some tools and languages I am most comfortable include:
 - **Languages:** Python, Java, C, SQL, RISC-V
 - **Tools:** Tableau, Google BigQuery, Jupyter Notebook
