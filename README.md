@@ -53,7 +53,7 @@ I have had the opportunity to take some really interesting (and challenging clas
 
 Some tools and languages I am most comfortable include:
 - **Languages:** Python, Java, C, SQL, RISC-V
-- **Tools:** Tableau, Google BigQuery, Jupyter Notebook
+- **Tools:** Tableau, Google BigQuery, Jupyter Notebook, G-Power 
 
 <!--
 **abhaykaggarwal/abhaykaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
