@@ -35,7 +35,7 @@ We presented the findings in a [blogpost](https://github.com/abhaykaggarwal/blog
 
 ## Organizations
 
-One of the highlights of my time in college has been [The Berkeley Forum](https://berkeleyforum.org/), a non-partisan forum that hosts speakers, debates, and panels on campus, completely free of charge to the public. As Vice President of the Moderating Committee, I have had the opportunity to train members in public speaking and question writing, as well as moderate for some really interesting folks, including:
+One of the highlights of my time in college has been [The Berkeley Forum](https://forum.berkeley.edu/), a non-partisan forum that hosts speakers, debates, and panels on campus, completely free of charge to the public. As Vice President of the Moderating Committee, I have had the opportunity to train members in public speaking and question writing, as well as moderate for some really interesting folks, including:
 
 - [Dr. Anthony Fauci](https://www.youtube.com/watch?v=8zxkvXcROS0&t=579s), Director of NIAID
 - [Kate Wagner](https://www.facebook.com/berkeleyforum/videos/390362598390099), Creator of McMansion Hell
