@@ -57,7 +57,7 @@ I have had the opportunity to take some really interesting (and challenging clas
 [Work done for classes are private to protect academic honesty]
 
 Some tools and languages I am most comfortable include:
-- **Languages:** Python, Java, C, SQL, RISC-V
+- **Languages:** Python, Java, C, SQL, HTML+CSS, RISC-V
 - **Tools:** Tableau, Google BigQuery, Jupyter Notebook, G-Power 
 
 <!--
