@@ -53,11 +53,12 @@ I have had the opportunity to take some really interesting (and challenging clas
 - CYPLAN 118AC, Urban Communities
 - [CS61C](https://cs61c.org/fa20/), Computer Architecture [[Repo](https://github.com/abhaykaggarwal/cs61c-private)]
 - [CS188](https://inst.eecs.berkeley.edu/~cs188/fa20/), Artificial Intelligence [[Repo](https://github.com/abhaykaggarwal/cs188-private)]
+- [Web Design DeCal](http://wdd.io/) [Final Project](https://abhaykaggarwal.github.io/)
 
 [Work done for classes are private to protect academic honesty]
 
 Some tools and languages I am most comfortable include:
-- **Languages:** Python, Java, C, SQL, HTML+CSS, RISC-V
+- **Languages:** Python, Java, C, SQL, HTML+CSS, Javascript, RISC-V
 - **Tools:** Tableau, Google BigQuery, Jupyter Notebook, G-Power 
 
 <!--
