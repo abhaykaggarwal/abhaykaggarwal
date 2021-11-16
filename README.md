@@ -4,7 +4,7 @@
 ## A Little About Me
 Hi there 👋 my name is Abhay. I am currently a senior at UC Berkeley studying Computer Science and City Planning. I am deeply passionate about public transportation (self-identifying NUMTOT 🏙), using and improving data 📊, and maps 🗺 (amongst many other interests). I got the idea to make a README profile from [Monica Powell](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) and decided to give it a try!
 
-Alongside my work in college, I have had the opportunity to intern in the past at [Accenture Labs](https://www.accenture.com/us-en/about/accenture-labs-index) (with the Future Technologies team), and at [Appdynamics](https://www.appdynamics.com/) (a SaaS-based Cisco company). Thist past summer I interned at [American Express](https://www.americanexpress.com/us/) on their Cloud Engineering PaaS API team and volunteered with [Develop for Good](https://www.developforgood.org/)!
+Alongside my work in college, I have had the opportunity to intern in the past at [Accenture Labs](https://www.accenture.com/us-en/about/accenture-labs-index) (with the Future Technologies team), and at [Appdynamics](https://www.appdynamics.com/) (a SaaS-based Cisco company). This past summer I interned at [American Express](https://www.americanexpress.com/us/) on their Cloud Engineering PaaS API team and volunteered with [Develop for Good](https://www.developforgood.org/)!
 
 If you have any questions about any of my projects or want to reach out, my email is [abhaykaggarwal] @ [berkeley.edu]. My pronouns are he/him!
 
