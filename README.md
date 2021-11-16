@@ -2,9 +2,9 @@
 <img src="images/GithubCoverPhoto.png">
 
 ## A Little About Me
-Hi there 👋 my name is Abhay. I am currently a rising senior at UC Berkeley studying Computer Science and City Planning. I am deeply passionate about public transportation (self-identifying NUMTOT 🏙), using and improving data 📊, and maps 🗺 (amongst many other interests). I got the idea to make a README profile from [Monica Powell](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) and decided to give it a try!
+Hi there 👋 my name is Abhay. I am currently a senior at UC Berkeley studying Computer Science and City Planning. I am deeply passionate about public transportation (self-identifying NUMTOT 🏙), using and improving data 📊, and maps 🗺 (amongst many other interests). I got the idea to make a README profile from [Monica Powell](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) and decided to give it a try!
 
-Alongside my work in college, I have had the opportunity to intern in the past at [Accenture Labs](https://www.accenture.com/us-en/about/accenture-labs-index) (with the Future Technologies team), and at [Appdynamics](https://www.appdynamics.com/) (a SaaS-based Cisco company). I am currently interning at [American Express](https://www.americanexpress.com/us/) on their Cloud Engineering team and am volunteering with [Develop for Good](https://www.developforgood.org/)!
+Alongside my work in college, I have had the opportunity to intern in the past at [Accenture Labs](https://www.accenture.com/us-en/about/accenture-labs-index) (with the Future Technologies team), and at [Appdynamics](https://www.appdynamics.com/) (a SaaS-based Cisco company). Thist past summer I interned at [American Express](https://www.americanexpress.com/us/) on their Cloud Engineering PaaS API team and volunteered with [Develop for Good](https://www.developforgood.org/)!
 
 If you have any questions about any of my projects or want to reach out, my email is [abhaykaggarwal] @ [berkeley.edu]. My pronouns are he/him!
 
@@ -43,7 +43,7 @@ One of the highlights of my time in college has been [The Berkeley Forum](https:
 - [Karen Diver](https://www.facebook.com/berkeleyforum/videos/381620866076629), Former Special Assistant to President Obama on Native American Affairs
 
 ### BEACN
-I also am an Associate Consultant with [BEACN](https://www.beacn.org/), the Bay Area Environmentally Aware Network, an environmental consulting group at UC Berkeley, that works to help clients develop environmentally-friendly solutions to business problems. 
+I also am a Project Manager with [BEACN](https://www.beacn.org/), the Bay Area Environmentally Aware Network, an environmental consulting group at UC Berkeley, that works to help clients develop environmentally-friendly solutions to business problems. I have previously worked with Autodesk on a project to incorporate Life Cycle Analysis (LCA) into the Fusion 360 platform.
 
 ## Classes and Tools
 I have had the opportunity to take some really interesting (and challenging classes), including some of my personal favorites:
