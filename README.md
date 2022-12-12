@@ -2,11 +2,11 @@
 <img src="images/GithubCoverGrad.png">
 
 ## A Little About Me
-Hi there 👋 my name is Abhay. I am currently a senior at UC Berkeley studying Computer Science and City Planning. I am deeply passionate about public transportation (self-identifying NUMTOT 🏙), using and improving data 📊, and maps 🗺 (amongst many other interests). I got the idea to make a README profile from [Monica Powell](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) and decided to give it a try!
+Hi there 👋 my name is Abhay. I am currently an associate Forward Deployed Engineer at [C3 AI](https://c3.ai/), and graduated from UC Berkeley in May 2022 with a degree in CS & a minor in City Planning. I am passionate about public transportation & planning 🏙, using and improving data 📊, and maps 🗺 (amongst many other interests). I got the idea to make a README profile from [Monica Powell](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) and decided to give it a try!
 
-Alongside my work in college, I have had the opportunity to intern in the past at [Accenture Labs](https://www.accenture.com/us-en/about/accenture-labs-index) (with the Future Technologies team), and at [Appdynamics](https://www.appdynamics.com/) (a SaaS-based Cisco company). This past summer I interned at [American Express](https://www.americanexpress.com/us/) on their Cloud Engineering PaaS API team and volunteered with [Develop for Good](https://www.developforgood.org/)!
+Alongside my work in college, I have had the opportunity to intern in the past at [Accenture Labs](https://www.accenture.com/us-en/about/accenture-labs-index) (with the Future Technologies team), [Appdynamics](https://www.appdynamics.com/) (a SaaS-based Cisco company), and [American Express](https://www.americanexpress.com/us/) on their Cloud Engineering PaaS API team!
 
-If you have any questions about any of my projects or want to reach out, my email is [abhaykaggarwal] @ [berkeley.edu]. My pronouns are he/him!
+If you have any questions about any of my projects or want to reach out, my email is [abhaykaggarwal] @ [gmail] . [com]. My pronouns are he/him!
 
 ## Research
 
@@ -36,14 +36,14 @@ We presented the findings in a [blogpost](https://github.com/abhaykaggarwal/blog
 ## Organizations
 
 ### The Berkeley Forum
-One of the highlights of my time in college has been [The Berkeley Forum](https://forum.berkeley.edu/), a non-partisan forum that hosts speakers, debates, and panels on campus, completely free of charge to the public. As Vice President of the Moderating Committee, I have had the opportunity to train members in public speaking and question writing, as well as moderate for some really interesting folks, including:
+One of the highlights of my time in college was [The Berkeley Forum](https://forum.berkeley.edu/), a non-partisan forum that hosts speakers, debates, and panels on campus, completely free of charge to the public. As Vice President of the Moderating Committee, I had the opportunity to train members in public speaking and question writing, as well as moderate for some really interesting folks, including:
 
 - [Dr. Anthony Fauci](https://www.youtube.com/watch?v=8zxkvXcROS0&t=579s), Director of NIAID
 - [Kate Wagner](https://www.facebook.com/berkeleyforum/videos/390362598390099), Creator of McMansion Hell
 - [Karen Diver](https://www.facebook.com/berkeleyforum/videos/381620866076629), Former Special Assistant to President Obama on Native American Affairs
 
 ### BEACN
-I also am a Project Manager with [BEACN](https://www.beacn.org/), the Bay Area Environmentally Aware Network, an environmental consulting group at UC Berkeley, that works to help clients develop environmentally-friendly solutions to business problems. I have previously worked with Autodesk on a project to incorporate Life Cycle Analysis (LCA) into the Fusion 360 platform.
+I was also a Project Manager and Vice President of Operations with [BEACN](https://www.beacn.org/), the Bay Area Environmentally Aware Network, an environmental consulting group at UC Berkeley, that works to help clients develop environmentally-friendly solutions to business problems. I have previously worked with Autodesk to incorporate Life Cycle Analysis (LCA) into the Fusion 360 platform and Equator Coffees to renew their BCorp certification.
 
 ## Classes and Tools
 I have had the opportunity to take some really interesting (and challenging classes), including some of my personal favorites:
