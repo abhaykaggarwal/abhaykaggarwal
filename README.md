@@ -43,7 +43,7 @@ One of the highlights of my time in college was [The Berkeley Forum](https://for
 - [Karen Diver](https://www.facebook.com/berkeleyforum/videos/381620866076629), Former Special Assistant to President Obama on Native American Affairs
 
 ### BEACN
-I was also a Project Manager and Vice President of Operations with [BEACN](https://www.beacn.org/), the Bay Area Environmentally Aware Network, an environmental consulting group at UC Berkeley, that works to help clients develop environmentally-friendly solutions to business problems. I have previously worked with Autodesk to incorporate Life Cycle Analysis (LCA) into the Fusion 360 platform and Equator Coffees to renew their BCorp certification.
+I was also a Project Manager and Vice President of Operations with [BEACN](https://www.beacn.org/), the Bay Area Environmentally Aware Network, an environmental consulting group at UC Berkeley, that works to help clients develop environmentally-friendly solutions to business problems. I previously worked with Autodesk to incorporate Life Cycle Analysis (LCA) into the Fusion 360 platform and Equator Coffees to renew their BCorp certification.
 
 ## Classes and Tools
 I have had the opportunity to take some really interesting (and challenging classes), including some of my personal favorites:
