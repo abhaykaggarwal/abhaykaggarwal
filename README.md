@@ -47,12 +47,13 @@ I was also a Project Manager and Vice President of Operations with [BEACN](https
 
 ## Classes and Tools
 I have had the opportunity to take some really interesting (and challenging classes), including some of my personal favorites:
-- [CS61A](https://inst.eecs.berkeley.edu/~cs61a/sp19/), Computer Programs [[Repo](https://github.com/abhaykaggarwal/cs61b-private)]
-- [CS61B](https://inst.eecs.berkeley.edu/~cs61b/fa19/), Data Structures [[Repo](https://github.com/abhaykaggarwal/cs61b-private)]
 - CYPLAN 190, Sustainable Public Transportation
 - CYPLAN 118AC, Urban Communities
 - [CS61C](https://cs61c.org/fa20/), Computer Architecture [[Repo](https://github.com/abhaykaggarwal/cs61c-private)]
 - [CS188](https://inst.eecs.berkeley.edu/~cs188/fa20/), Artificial Intelligence [[Repo](https://github.com/abhaykaggarwal/cs188-private)]
+- [CS170](https://cs170.org/), Efficient ALgorithms and Intractable Problems
+- CS194-100, Social Justice in EECS
+- [CS 189](https://people.eecs.berkeley.edu/~jrs/189/), Machine Learning
 - [Web Design DeCal](http://wdd.io/) [[Final Project](https://abhaykaggarwal.github.io/)]
 
 [Work done for classes are private to protect academic honesty]
