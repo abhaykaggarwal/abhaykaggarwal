@@ -50,7 +50,6 @@ I have had the opportunity to take some really interesting (and challenging clas
 - CYPLAN 190, Sustainable Public Transportation
 - CYPLAN 118AC, Urban Communities
 - [CS61C](https://cs61c.org/fa20/), Computer Architecture [[Repo](https://github.com/abhaykaggarwal/cs61c-private)]
-- [CS188](https://inst.eecs.berkeley.edu/~cs188/fa20/), Artificial Intelligence [[Repo](https://github.com/abhaykaggarwal/cs188-private)]
 - [CS170](https://cs170.org/), Efficient ALgorithms and Intractable Problems
 - CS194-100, Social Justice in EECS
 - [CS 189](https://people.eecs.berkeley.edu/~jrs/189/), Machine Learning
