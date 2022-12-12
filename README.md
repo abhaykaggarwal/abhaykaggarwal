@@ -59,8 +59,8 @@ I have had the opportunity to take some really interesting (and challenging clas
 [Work done for classes are private to protect academic honesty]
 
 Some tools and languages I am most comfortable include:
-- **Languages:** Python, Java, C, SQL, HTML+CSS, JavaScript, Go, RISC-V
-- **Tools:** Tableau, Google BigQuery, Jupyter Notebook, G-Power 
+- **Languages:** Python, JavaScript, Java, C, SQL, HTML+CSS, Go
+- **Tools:** Tableau, Figma, Google BigQuery, G-Power
 
 <!--
 **abhaykaggarwal/abhaykaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
