@@ -2,7 +2,7 @@
 <img src="images/GithubCoverGrad.png">
 
 ## A Little About Me
-Hi there 👋 my name is Abhay. I am currently a Deployed Engineer at [Codeium]([https://c3.ai/](https://codeium.com/)), and graduated from UC Berkeley in May 2022 with a degree in CS & a minor in City Planning. I am passionate about public transportation & planning 🏙, using and improving data 📊, and maps 🗺 (amongst many other interests). I got the idea to make a README profile from [Monica Powell](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) and decided to give it a try!
+Hi there 👋 my name is Abhay. I am currently a Deployed Engineer at [Codeium](https://codeium.com/), and graduated from UC Berkeley in May 2022 with a degree in CS & a minor in City Planning. I am passionate about public transportation & planning 🏙, using and improving data 📊, and maps 🗺 (amongst many other interests). I got the idea to make a README profile from [Monica Powell](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) and decided to give it a try!
 
 I was previously a Solution Engineer at [C3 AI](https://c3.ai/) for over two years, working on building enterprise AI applications in energy & manufacturing. Alongside my work in college, I have had the opportunity to intern in the past at [Accenture Labs](https://www.accenture.com/us-en/about/accenture-labs-index) (with the Future Technologies team), [Appdynamics](https://www.appdynamics.com/) (a Cisco company), and [American Express](https://www.americanexpress.com/us/) on their Cloud Engineering PaaS API team!
 
