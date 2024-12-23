@@ -1,5 +1,5 @@
 
-<img src="images/GithubCoverGrad.png">
+<img src="images/GithubCover2024.png">
 
 ## A Little About Me
 Hi there 👋 my name is Abhay. I am currently a Deployed Engineer at [Codeium](https://codeium.com/), and graduated from UC Berkeley in May 2022 with a degree in CS & a minor in City Planning. I am passionate about public transportation & planning 🏙, using and improving data 📊, and maps 🗺 (amongst many other interests). I got the idea to make a README profile from [Monica Powell](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) and decided to give it a try!
